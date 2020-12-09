@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
   {
     "name": "test1"
   },
@@ -7,21 +6,9 @@
     "name": "test2"
   },
   {
-    "name": "test33"
+    "name": "test3"
+  },
+  {
+    "name": "test5"
   }
 ]
-=======
-	{
-		"name": "test1"
-	},
-	{
-		"name": "test2"
-	},
-	{
-		"name": "test3"
-	},
-	{
-		"name": "test5"
-	}
-]
->>>>>>> a6f73466217e9aeb01df3e1171088badb2abd9fa
