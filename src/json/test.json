@@ -5,7 +5,10 @@
   {
     "name": "test2"
   },
-  {
+  ({
     "name": "test33"
-  }
+  },
+  {
+    "name": "test6"
+  })
 ]
