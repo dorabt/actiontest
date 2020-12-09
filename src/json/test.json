@@ -8,7 +8,10 @@
   {
     "name": "test33"
   },
-  {
+  ({
     "name": "test6"
-  }
+  },
+  {
+    "name": "test7"
+  })
 ]
